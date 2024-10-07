@@ -201,5 +201,5 @@ After finishing, merge the branch back into main:
 
 ```bash
 
-git merge <branch-name
+git merge <branch-name>
 ```
