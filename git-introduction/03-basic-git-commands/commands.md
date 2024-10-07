@@ -160,3 +160,46 @@ Or stage all changes:
 
 git add .
 ```
+## Step 3: Commit Changes
+Once files are staged, create a commit to record your changes with a message explaining what you did:
+
+```bash
+
+git commit -m "Descriptive message of the changes"
+```
+## Step 4: Push Changes to a Remote
+Once you have made a commit, you can push the changes to the remote repository:
+
+```bash
+
+git push origin <branch-name>
+```
+This sends your changes to GitHub (or any other Git hosting service) so others can access them.
+
+## Step 5: Pull and Merge Changes
+If someone else has made changes to the remote repository, you should pull the latest changes before making your own:
+
+```bash
+Copy code
+git pull origin main
+```
+
+## Step 6: Branching for Collaboration
+To work on a new feature or bug fix, create a branch:
+
+```bash
+
+git branch <branch-name>
+```
+Switch to the branch:
+
+```bash
+
+git checkout <branch-name>
+```
+After finishing, merge the branch back into main:
+
+```bash
+
+git merge <branch-name
+```
