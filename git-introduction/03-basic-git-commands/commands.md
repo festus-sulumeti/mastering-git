@@ -82,8 +82,10 @@ git log
 This will display the commit history, including commit IDs, messages, and authors.
 
 ## 5. Branching and Merging
-At this stage, we have a small introduction on branching and merging. MOre details on what it is will be covered in other well stated folders inside the repository
-the key point to be taken at this stage is that with braching and merging, it mainly occurs when you  want to work in team with other developers or maybe you might want to work alone but have the need that you prefer not to temper with the original file that is in the main repository while you are creating your project 
+At this stage, we have a small introduction on branching and merging. 
+More details on what it is will be covered in other well stated folders inside the repository.
+
+The key point to be taken at this stage is that with braching and merging, it mainly occurs when you  want to work in team with other developers or maybe you might want to work alone but have the need that you prefer not to temper with the original file that is in the main repository while you are creating your project 
 
 a. Create a New Branch
 To start working on a new feature or bug fix, create a new branch:
