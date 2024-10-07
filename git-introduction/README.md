@@ -22,7 +22,7 @@ This repository contains all the materials and resources for an introductory ses
 ## 📁 Folder Structure
 
 ```bash
-.
+git-introduction/
 ├── 01-what-is-git/
 │   └── notes.md         # Basic introduction to Git
 ├── 02-key-terminologies/
@@ -63,3 +63,4 @@ Find out the common mistakes beginners make and how to avoid them.
 
 ### 7. [Practical Demo](07-practical-demo/demo.md)
 Follow along with a step-by-step practical demo to create and manage a Git repository, branches, and push to GitHub.
+z
