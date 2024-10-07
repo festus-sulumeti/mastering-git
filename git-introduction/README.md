@@ -2,7 +2,24 @@
 
 This repository contains all the materials and resources for an introductory session on Git. The content is structured to help beginners understand the basic concepts of version control, Git commands, workflows, and how to apply them in real-world projects.
 
-## Folder Structure
+---
+
+## 📚 Table of Contents
+
+- [Mastering Git Basics](#mastering-git-basics)
+- [📁 Folder Structure](#-folder-structure)
+- [📚 Contents](#-contents)
+  - [1. What is Git?](#1-what-is-git)
+  - [2. Key Git Terminologies](#2-key-git-terminologies)
+  - [3. Basic Git Commands](#3-basic-git-commands)
+  - [4. Git Workflow](#4-git-workflow)
+  - [5. Key Concepts](#5-key-concepts)
+  - [6. Common Mistakes](#6-common-mistakes)
+  - [7. Practical Demo](#7-practical-demo)
+
+---
+
+## 📁 Folder Structure
 
 ```bash
 .
