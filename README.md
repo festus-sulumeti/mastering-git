@@ -7,15 +7,6 @@ Welcome to the **Mastering Git** repository! This repository is designed to prov
 ## 📚 Table of Contents
 
 - [Mastering Git ](#mastering-git-basics)
-- [📁 Folder Structure](#-folder-structure)
-- [📚 Contents](#-contents)
-  - [1. What is Git?](#1-what-is-git)
-  - [2. Key Git Terminologies](#2-key-git-terminologies)
-  - [3. Basic Git Commands](#3-basic-git-commands)
-  - [4. Git Workflow](#4-git-workflow)
-  - [5. Key Concepts](#5-key-concepts)
-  - [6. Common Mistakes](#6-common-mistakes)
-  - [7. Practical Demo](#7-practical-demo)
 - [📈 Upcoming Content](#-upcoming-content)
   - [Intermediate Git Topics](#intermediate-git-topics)
   - [Advanced Git Topics](#advanced-git-topics)
@@ -47,27 +38,45 @@ Welcome to the **Mastering Git** repository! This repository is designed to prov
 │   │   └── demo.md          # Practical demonstration of Git commands
 │   └── README.md            # Overview of the session
 
+
 ```
 
-## 📚 Contents
+## 📈 Upcoming Content
 
-1. What is Git?
-An introduction to Git, covering its importance in version control, its history, and how it helps developers manage and track changes in their projects.
+1. Intermediate Git Topics
+This repository will soon be expanded with intermediate-level Git topics. Some of the topics to be covered include:
 
-2. Key Git Terminologies
-An in-depth look at the essential terminologies such as repositories, commits, branches, merges, and remotes. Understanding these terms is crucial to mastering Git.
+  [] Best practices for branch management
+  [] Interactive rebase for rewriting commits
+  [] Working with Git remotes, tags, and annotated tags
+  [] Debugging with git bisect
+  [] Resolving complex merge conflicts
 
-3. Basic Git Commands
-A detailed guide to the most commonly used Git commands, including `git init`, `git clone`, `git add`, `git commit`, `git push`, and many more. Each command is accompanied by an explanation of its usage and examples.
+2. Advanced Git Topics
+In the future, we will also add advanced topics that explore deeper aspects of Git, such as:
 
-4. Git Workflow
-Learn the standard Git workflow used in most development teams. From staging changes to committing them and collaborating via branches and pull requests, this section provides a step-by-step guide.
+  [] Advanced merge strategies
+  [] Cherry-picking specific commits
+  [] Rewriting history with git rebase
+  [] Automating tasks with Git hooks
+  [] Collaborating on large projects with submodules and Git LFS (Large File Storage)
+  [] Managing monorepos using advanced Git strategies
 
-5. Key Concepts
-An exploration of advanced Git concepts such as `.gitignore` files, how to handle merge conflicts, and the differences between merge and rebase operations. This section is critical for avoiding common pitfalls.
 
-6. Common Mistakes
-A collection of common mistakes that beginners make when using Git, along with advice on how to avoid them. From incorrectly resolving conflicts to accidentally deleting branches, this section will guide you through the potential challenges.
+Stay tuned for these exciting updates!
 
-7. Practical Demo
-A step-by-step practical demonstration on creating and managing a Git repository, branching, and pushing changes to a remote GitHub repository. This demo helps consolidate the theoretical knowledge from earlier sections.
+## 🚀 How to Use This Repository
+   [] Begin by reading through each section in the order provided.
+   [] Review the corresponding .md files for detailed explanations.
+   [] Use the Practical Demo to get hands-on experience by following the demo steps.
+   [] Feel free to experiment with Git commands on your own repository as you progress through the content.
+   [] Revisit the sections as needed, and check back regularly for new content!
+
+
+## 💬 Contact
+If you have any questions, suggestions, or feedback, feel free to open an issue in this repository or contact me directly via email. I’m always happy to help!
+
+Enjoy your journey to mastering Git! 🚀
+
+## License
+This repository is licensed under the MIT License. See the LICENSE file for more details.
