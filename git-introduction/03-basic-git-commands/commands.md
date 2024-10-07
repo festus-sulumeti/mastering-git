@@ -17,13 +17,14 @@ git config --global user.email "your.email@example.com"
 a. Initialize a Git Repository
 
 To start tracking changes in a project, you need to initialize Git in the project directory.
+create a folder with which you will initialize it with
 
 ```bash
 git init
 
 ```
 
-This creates a .git folder where Git stores the history of changes.
+This creates a .git file within the folder where Git stores the history of changes.
 
 b. Cloning a Repository
 Cloning copies an existing Git repository from a remote server to your local machine.
