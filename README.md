@@ -66,11 +66,11 @@ In the future, we will also add advanced topics that explore deeper aspects of G
 Stay tuned for these exciting updates!
 
 ## 🚀 How to Use This Repository
-   [] Begin by reading through each section in the order provided.
-   [] Review the corresponding .md files for detailed explanations.
-   [] Use the Practical Demo to get hands-on experience by following the demo steps.
-   [] Feel free to experiment with Git commands on your own repository as you progress through the content.
-   [] Revisit the sections as needed, and check back regularly for new content!
+   - Begin by reading through each section in the order provided.
+   - Review the corresponding .md files for detailed explanations.
+   - Use the Practical Demo to get hands-on experience by following the demo steps.
+   - Feel free to experiment with Git commands on your own repository as you progress through the content.
+   - Revisit the sections as needed, and check back regularly for new content!
 
 
 ## 💬 Contact
