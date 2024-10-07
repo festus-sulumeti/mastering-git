@@ -43,16 +43,16 @@ Welcome to the **Mastering Git** repository! This repository is designed to prov
 
 ## 📈 Upcoming Content
 
-1. Intermediate Git Topics
+1. `Intermediate Git Topics`
 This repository will soon be expanded with intermediate-level Git topics. Some of the topics to be covered include:
 
-  [] Best practices for branch management
-  [] Interactive rebase for rewriting commits
-  [] Working with Git remotes, tags, and annotated tags
-  [] Debugging with git bisect
-  [] Resolving complex merge conflicts
+  - Best practices for branch management
+  - Interactive rebase for rewriting commits
+  - Working with Git remotes, tags, and annotated tags
+  - Debugging with git bisect
+  - Resolving complex merge conflicts
 
-2. Advanced Git Topics
+2. `Advanced Git Topics`
 In the future, we will also add advanced topics that explore deeper aspects of Git, such as:
 
    - Advanced merge strategies
