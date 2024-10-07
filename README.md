@@ -58,4 +58,4 @@ An introduction to Git, covering its importance in version control, its history,
 An in-depth look at the essential terminologies such as repositories, commits, branches, merges, and remotes. Understanding these terms is crucial to mastering Git.
 
 3. Basic Git Commands
-A detailed guide to the most commonly used Git commands, including `git init`, `git clone, git add, git commit, git push`, and many more. Each command is accompanied by an explanation of its usage and examples.
+A detailed guide to the most commonly used Git commands, including `git init`, `git clone`, `git add`, `git commit`, `git push`, and many more. Each command is accompanied by an explanation of its usage and examples.
