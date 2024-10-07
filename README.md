@@ -46,3 +46,16 @@ Welcome to the **Mastering Git** repository! This repository is designed to prov
 │   ├── 07-practical-demo/
 │   │   └── demo.md          # Practical demonstration of Git commands
 │   └── README.md            # Overview of the session
+
+```
+
+## 📚 Contents
+
+1. What is Git?
+An introduction to Git, covering its importance in version control, its history, and how it helps developers manage and track changes in their projects.
+
+2. Key Git Terminologies
+An in-depth look at the essential terminologies such as repositories, commits, branches, merges, and remotes. Understanding these terms is crucial to mastering Git.
+
+3. Basic Git Commands
+A detailed guide to the most commonly used Git commands, including `git init`, `git clone, git add, git commit, git push`, and many more. Each command is accompanied by an explanation of its usage and examples.
