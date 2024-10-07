@@ -87,6 +87,8 @@ More details on what it is will be covered in other well stated folders inside t
 
 The key point to be taken at this stage is that with braching and merging, it mainly occurs when you  want to work in team with other developers or maybe you might want to work alone but have the need that you prefer not to temper with the original file that is in the main repository while you are creating your project 
 
+The following is a surface basics on how to go about it 
+
 a. Create a New Branch
 To start working on a new feature or bug fix, create a new branch:
 
