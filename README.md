@@ -1,6 +1,6 @@
-# Mastering Git Basics
+# Mastering Git
 
-Welcome to the **Mastering Git Basics** repository! This repository is designed to provide a comprehensive introduction to Git for beginners. It includes materials and resources that will help you understand the fundamental concepts of version control, master essential Git commands, and learn how to apply these skills in real-world projects. Over time, this repository will expand to include intermediate and advanced Git topics.
+Welcome to the **Mastering Git** repository! This repository is designed to provide a comprehensive introduction to Git for beginners. It includes materials and resources that will help you understand the fundamental concepts of version control, master essential Git commands, and learn how to apply these skills in real-world projects. Over time, this repository will expand to include intermediate and advanced Git topics.
 
 ---
 
