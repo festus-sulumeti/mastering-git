@@ -6,7 +6,7 @@ This repository contains all the materials and resources for an introductory ses
 
 ## 📚 Table of Contents
 
-- [Mastering Git Basics](#mastering-git-basics)
+- [Git Introduction for Beginners](#git-introduction-for-beginners)
 - [📁 Folder Structure](#-folder-structure)
 - [📚 Contents](#-contents)
   - [1. What is Git?](#1-what-is-git)
