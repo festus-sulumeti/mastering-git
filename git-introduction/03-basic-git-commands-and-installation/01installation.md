@@ -4,11 +4,13 @@ Whether you are in `MACOS`, `windows` or `Linux`, you have to check first if git
 
 **Windows**
  - open your cmd(command prompt), then type `git --version`
+ - If not found, install it 
 
 **LINUX/MACOS**
  - Open your terminal, then type `git --version`
  - If the version is stated, there is no need to install git. Better still, you can upgrade it if you feel like.
  - If git command is not found, then we can begin the installation process
+ - Most Linux system may tend to come with git out of the box
 
 ### 1. Installing Git on Different Operating Systems
 
