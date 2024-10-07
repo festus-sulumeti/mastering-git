@@ -4,6 +4,28 @@ Welcome to the **Mastering Git Basics** repository! This repository is designed 
 
 ---
 
+## 📚 Table of Contents
+
+- [Mastering Git Basics](#mastering-git-basics)
+- [📁 Folder Structure](#-folder-structure)
+- [📚 Contents](#-contents)
+  - [1. What is Git?](#1-what-is-git)
+  - [2. Key Git Terminologies](#2-key-git-terminologies)
+  - [3. Basic Git Commands](#3-basic-git-commands)
+  - [4. Git Workflow](#4-git-workflow)
+  - [5. Key Concepts](#5-key-concepts)
+  - [6. Common Mistakes](#6-common-mistakes)
+  - [7. Practical Demo](#7-practical-demo)
+- [📈 Upcoming Content](#-upcoming-content)
+  - [Intermediate Git Topics](#intermediate-git-topics)
+  - [Advanced Git Topics](#advanced-git-topics)
+- [🚀 How to Use This Repository](#-how-to-use-this-repository)
+- [🔗 Resources](#-resources)
+- [💬 Contact](#-contact)
+- [License](#license)
+
+---
+
 ## 📁 Folder Structure
 
 ```bash
@@ -24,5 +46,3 @@ Welcome to the **Mastering Git Basics** repository! This repository is designed 
 │   ├── 07-practical-demo/
 │   │   └── demo.md          # Practical demonstration of Git commands
 │   └── README.md            # Overview of the session
-
-```
