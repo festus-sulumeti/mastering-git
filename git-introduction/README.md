@@ -63,21 +63,3 @@ Find out the common mistakes beginners make and how to avoid them.
 
 ### 7. [Practical Demo](07-practical-demo/demo.md)
 Follow along with a step-by-step practical demo to create and manage a Git repository, branches, and push to GitHub.
-
-## How to Use This Repo
-
-1. Start by reviewing each section in the order listed.
-2. For the practical demo, follow the steps in the [Practical Demo](07-practical-demo/demo.md) folder.
-3. Ask questions and experiment with the commands in a Git repository of your own.
-
-## Resources
-
-- [Git Documentation](https://git-scm.com/doc)
-- [GitHub Learning Lab](https://lab.github.com/)
-- [Pro Git Book](https://git-scm.com/book/en/v2)
-
-## Contact
-
-If you have any questions or need further clarification, feel free to reach out.
-
-Enjoy learning Git!
