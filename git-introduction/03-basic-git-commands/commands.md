@@ -2,6 +2,8 @@
 
 Here’s a guide to the most essential Git commands, categorized for convenience.
 
+Note that this is a beginner's guide. Incase some of the concepts commands are found to be difficult, do not worry there are other folders within the repository that are going to state deeply on what the commands witnessed in this place are, and the role they play 
+
 ## 1. Setting up Git
 
 Before you can start using Git, configure your identity so that it’s tied to your commits. This only needs to be done once per machine.
