@@ -22,6 +22,8 @@ This repository contains all the materials and resources for an introductory ses
 │   └── demo.md          # Practical demonstration of Git commands
 └── README.md            # This file, overview of the session
 
+```
+
 ## Contents
 
 ### 1. [What is Git?](01-what-is-git/notes.md)
