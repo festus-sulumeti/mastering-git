@@ -55,12 +55,12 @@ This repository will soon be expanded with intermediate-level Git topics. Some o
 2. Advanced Git Topics
 In the future, we will also add advanced topics that explore deeper aspects of Git, such as:
 
-  [] Advanced merge strategies
-  [] Cherry-picking specific commits
-  [] Rewriting history with git rebase
-  [] Automating tasks with Git hooks
-  [] Collaborating on large projects with submodules and Git LFS (Large File Storage)
-  [] Managing monorepos using advanced Git strategies
+   - Advanced merge strategies
+   - Cherry-picking specific commits
+   - Rewriting history with git rebase
+   - Automating tasks with Git hooks
+   -  Collaborating on large projects with submodules and Git LFS (Large File Storage)
+   - Managing monorepos using advanced Git strategies
 
 
 Stay tuned for these exciting updates!
