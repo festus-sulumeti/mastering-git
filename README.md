@@ -52,6 +52,8 @@ This repository will soon be expanded with intermediate-level Git topics. Some o
   - Debugging with git bisect
   - Resolving complex merge conflicts
 
+
+
 2. `Advanced Git Topics`
 In the future, we will also add advanced topics that explore deeper aspects of Git, such as:
 
@@ -63,7 +65,11 @@ In the future, we will also add advanced topics that explore deeper aspects of G
    - Managing monorepos using advanced Git strategies
 
 
+
+
 Stay tuned for these exciting updates!
+
+
 
 ## 🚀 How to Use This Repository
    - Begin by reading through each section in the order provided.
