@@ -59,3 +59,15 @@ An in-depth look at the essential terminologies such as repositories, commits, b
 
 3. Basic Git Commands
 A detailed guide to the most commonly used Git commands, including `git init`, `git clone`, `git add`, `git commit`, `git push`, and many more. Each command is accompanied by an explanation of its usage and examples.
+
+4. Git Workflow
+Learn the standard Git workflow used in most development teams. From staging changes to committing them and collaborating via branches and pull requests, this section provides a step-by-step guide.
+
+5. Key Concepts
+An exploration of advanced Git concepts such as `.gitignore` files, how to handle merge conflicts, and the differences between merge and rebase operations. This section is critical for avoiding common pitfalls.
+
+6. Common Mistakes
+A collection of common mistakes that beginners make when using Git, along with advice on how to avoid them. From incorrectly resolving conflicts to accidentally deleting branches, this section will guide you through the potential challenges.
+
+7. Practical Demo
+A step-by-step practical demonstration on creating and managing a Git repository, branching, and pushing changes to a remote GitHub repository. This demo helps consolidate the theoretical knowledge from earlier sections.
